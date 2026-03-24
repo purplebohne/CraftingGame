@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: RES_Population
   m_EditorClassIdentifier: 
   id: friends
-  icon: {fileID: -2554768595615315461, guid: efccf4f91461006469bbf92d4bd5e517, type: 3}
-  displayName: Friends
+  icon: {fileID: -2945111936824130769, guid: 81e3e4f06fabc8f40a8f2fce6005abdf, type: 3}
+  displayName: Population
   maxStack: 99
   description: Your Actor slots
